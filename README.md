@@ -1,6 +1,6 @@
 REPORT
 
-LAB 4 : Dicee App
+LAB 4 : Magic Ball
 
 Student name: Lê Quang Nghĩa
 
